@@ -1,0 +1,15 @@
+.breadcrumb-holder {
+    background-color: #d3d3d3;
+}
+.breadcrumb-holder ol{
+    margin-bottom: 0px;
+    background-color: #d3d3d3;
+}
+.breadcrumb > li + li:before {
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    
+}
